@@ -1,0 +1,7 @@
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\bin\Debug\SimpleMenu.Fs.AggregateSource.XML
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\bin\Debug\SimpleMenu.Fs.AggregateSource.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\bin\Debug\SimpleMenu.Fs.AggregateSource.pdb
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\bin\Debug\FSharp.Core.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\bin\Debug\FSharp.Core.xml
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\obj\Debug\SimpleMenu.Fs.AggregateSource.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs.AggregateSource\obj\Debug\SimpleMenu.Fs.AggregateSource.pdb

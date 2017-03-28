@@ -1,0 +1,13 @@
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\SimpleMenu.Fs.exe.config
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\SimpleMenu.Fs.XML
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\SimpleMenu.Fs.exe
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\SimpleMenu.Fs.pdb
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\FSharp.Core.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\NEventStore.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\FSharp.Core.xml
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\NEventStore.pdb
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\NEventStore.xml
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\obj\Debug\SimpleMenu.Fs.exe
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\obj\Debug\SimpleMenu.Fs.pdb
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samuel\code\SimpleMenu.Fs\SimpleMenu.Fs\bin\Debug\Newtonsoft.Json.xml

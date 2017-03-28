@@ -16,7 +16,7 @@ let wireUpEventStore =
 [<EntryPoint>]
 let main argv = 
     use store = wireUpEventStore()   
-    let id = new Guid("247669b7-7810-4bc8-ad6d-353268067b57")
+    let id = Guid.NewGuid()
     let saver = EventStore.save store (printfn "Publishing event: %A")
 
     let p1 = Product.create id "Iceed Tee" "DRiinks"
